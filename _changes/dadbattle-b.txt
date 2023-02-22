@@ -1,0 +1,5 @@
+mods/data/dadbattle-b/dadbattle-b-hard.json
+mods/songs/dadbattle-b/Voices.ogg
+mods/songs/dadbattle-b/Inst.ogg
+mods/songs/dadbattle-b/voices.ogg
+mods/songs/dadbattle-b/inst.ogg

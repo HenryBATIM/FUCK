@@ -1,0 +1,6 @@
+mods/data/idot/events.json
+mods/data/idot/idot-hard.json
+mods/songs/idot/Voices.ogg
+mods/songs/idot/Inst.ogg
+mods/songs/idot/voices.ogg
+mods/songs/idot/inst.ogg

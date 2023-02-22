@@ -1,0 +1,8 @@
+mods/data/picnic-road/events.json
+mods/data/picnic-road/picnic-road-easy.json
+mods/data/picnic-road/picnic-road-hard.json
+mods/data/picnic-road/picnic-road.json
+mods/songs/picnic-road/Voices.ogg
+mods/songs/picnic-road/Inst.ogg
+mods/songs/picnic-road/voices.ogg
+mods/songs/picnic-road/inst.ogg

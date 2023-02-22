@@ -1,0 +1,6 @@
+mods/data/blue-streamer-battle/blue-streamer-battle-hard.json
+mods/data/blue-streamer-battle/blue-streamer-battle.json
+mods/songs/blue-streamer-battle/Voices.ogg
+mods/songs/blue-streamer-battle/Inst.ogg
+mods/songs/blue-streamer-battle/voices.ogg
+mods/songs/blue-streamer-battle/inst.ogg

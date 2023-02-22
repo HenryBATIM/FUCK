@@ -1,0 +1,5 @@
+mods/data/genesis/genesis-hard.json
+mods/songs/genesis/Voices.ogg
+mods/songs/genesis/Inst.ogg
+mods/songs/genesis/voices.ogg
+mods/songs/genesis/inst.ogg

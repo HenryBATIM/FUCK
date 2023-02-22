@@ -1,0 +1,5 @@
+mods/data/bazinga/bazinga-hard.json
+mods/songs/bazinga/Voices.ogg
+mods/songs/bazinga/Inst.ogg
+mods/songs/bazinga/voices.ogg
+mods/songs/bazinga/inst.ogg

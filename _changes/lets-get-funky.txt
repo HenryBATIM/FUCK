@@ -1,0 +1,6 @@
+mods/data/lets-get-funky/events.json
+mods/data/lets-get-funky/lets-get-funky-hard.json
+mods/songs/lets-get-funky/Voices.ogg
+mods/songs/lets-get-funky/Inst.ogg
+mods/songs/lets-get-funky/voices.ogg
+mods/songs/lets-get-funky/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/chaos/chaos-hard.json
+mods/songs/chaos/Voices.ogg
+mods/songs/chaos/Inst.ogg
+mods/songs/chaos/voices.ogg
+mods/songs/chaos/inst.ogg

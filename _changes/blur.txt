@@ -1,0 +1,8 @@
+mods/data/blur/blur-easy.json
+mods/data/blur/blur-hard.json
+mods/data/blur/blur.json
+mods/data/blur/events.json
+mods/songs/blur/Voices.ogg
+mods/songs/blur/Inst.ogg
+mods/songs/blur/voices.ogg
+mods/songs/blur/inst.ogg

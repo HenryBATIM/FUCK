@@ -1,0 +1,5 @@
+mods/data/blueballed/blueballed-hard.json
+mods/songs/blueballed/Voices.ogg
+mods/songs/blueballed/Inst.ogg
+mods/songs/blueballed/voices.ogg
+mods/songs/blueballed/inst.ogg

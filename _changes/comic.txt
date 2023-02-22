@@ -1,0 +1,5 @@
+mods/data/comic/comic-hard.json
+mods/songs/comic/Voices.ogg
+mods/songs/comic/Inst.ogg
+mods/songs/comic/voices.ogg
+mods/songs/comic/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/dejection/dejection-hard.json
+mods/data/dejection/events.json
+mods/songs/dejection/Voices.ogg
+mods/songs/dejection/Inst.ogg
+mods/songs/dejection/voices.ogg
+mods/songs/dejection/inst.ogg

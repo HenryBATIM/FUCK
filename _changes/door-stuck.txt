@@ -1,0 +1,6 @@
+mods/data/door-stuck/door-stuck-hard.json
+mods/data/door-stuck/events.json
+mods/songs/door-stuck/Voices.ogg
+mods/songs/door-stuck/Inst.ogg
+mods/songs/door-stuck/voices.ogg
+mods/songs/door-stuck/inst.ogg

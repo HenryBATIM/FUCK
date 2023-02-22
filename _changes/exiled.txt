@@ -1,0 +1,5 @@
+mods/data/exiled/exiled-hard.json
+mods/songs/exiled/Voices.ogg
+mods/songs/exiled/Inst.ogg
+mods/songs/exiled/voices.ogg
+mods/songs/exiled/inst.ogg

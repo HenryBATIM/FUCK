@@ -1,0 +1,7 @@
+mods/data/disco-devil/disco-devil-easy.json
+mods/data/disco-devil/disco-devil-hard.json
+mods/data/disco-devil/disco-devil.json
+mods/songs/disco-devil/Voices.ogg
+mods/songs/disco-devil/Inst.ogg
+mods/songs/disco-devil/voices.ogg
+mods/songs/disco-devil/inst.ogg

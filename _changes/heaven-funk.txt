@@ -1,0 +1,5 @@
+mods/data/heaven-funk/heaven-funk-hard.json
+mods/songs/heaven-funk/Voices.ogg
+mods/songs/heaven-funk/Inst.ogg
+mods/songs/heaven-funk/voices.ogg
+mods/songs/heaven-funk/inst.ogg
